@@ -1,0 +1,6 @@
+Install packages:
+numpy
+scipy
+matplotlib
+pandas
+jupyter
